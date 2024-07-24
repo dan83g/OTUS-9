@@ -1,4 +1,4 @@
-import React, { FC, useMemo, useRef, useState } from 'react';
+import React, { FC, useRef, useState } from 'react';
 import s from './Resizer.modules.sass';
 
 export interface ResizerProps {
