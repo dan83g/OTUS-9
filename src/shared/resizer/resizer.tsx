@@ -1,5 +1,6 @@
 import React, { FC, useRef, useState } from 'react';
-import s from './Resizer.modules.sass';
+import s from './resizer.modules.sass';
+
 
 export interface ResizerProps {
     children: React.ReactElement;
